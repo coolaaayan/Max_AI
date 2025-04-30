@@ -12,7 +12,7 @@ sudo apt install -y python3 python3-pip portaudio19-dev python3-pyaudio python3-
 pip3 install pygame SpeechRecognition pyttsx3 groq
 
 echo "📦 Cloning Max from GitHub..."
-git clone https://github.com/YOUR_USERNAME/Max_AI.git ~/max_ai
+git clone https://github.com/coolaaayan/Max_AI.git ~/max_ai
 
 mkdir -p ~/max_ai/sounds
 cp ~/max_ai/sounds/*.mp3 ~/max_ai/sounds/
